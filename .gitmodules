@@ -1,0 +1,3 @@
+[submodule "strukdatbaru/strukdatbaru/paper_strukdat"]
+	path = strukdatbaru/strukdatbaru/paper_strukdat
+	url = https://github.com/ahmadyhs/paper_strukdat.git
